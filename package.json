@@ -1,0 +1,33 @@
+{
+  "name": "pug-ast-loader",
+  "version": "0.0.1",
+  "description": "a webpack loader to import pug template as AST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholaslee119/pug-ast-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "ast",
+    "pug"
+  ],
+  "author": "nicholas lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholaslee119/pug-ast-loader/issues"
+  },
+  "homepage": "https://github.com/nicholaslee119/pug-ast-loader#readme",
+  "dependencies": {
+    "pug-load": "^2.0.9"
+  },
+  "devDependencies": {
+    "jest": "^21.0.1",
+    "pug-lexer": "^3.1.0",
+    "pug-parser": "^4.0.0"
+  }
+}
