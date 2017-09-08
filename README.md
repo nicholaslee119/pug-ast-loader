@@ -11,3 +11,6 @@ var ast = require("./file.pug");
 
 ```
 
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
